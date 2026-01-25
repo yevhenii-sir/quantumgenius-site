@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.quantumgenius.cardsgames",
+      "sha256_cert_fingerprints":
+      ["22:F5:13:45:68:5A:E3:CA:F9:8E:08:44:81:FA:7E:94:85:9E:2C:80:1B:6E:1E:7A:6C:66:C4:0A:CD:2A:09:8D"]
+    }
+  }
+]
