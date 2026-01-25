@@ -1,1 +1,1 @@
-simple prototype https://quantumgenius.tech/
+https://quantumgenius.tech/
